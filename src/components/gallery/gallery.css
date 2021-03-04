@@ -1,0 +1,30 @@
+div.container {
+    padding: 2em;
+    padding-top: 1em;
+    padding-right: 1em;
+    background-color: var(--mainBackground);
+}
+
+input[type=text] {
+    width: 250px;
+    padding: 4px 10px;
+    margin: 4px 0;
+    box-sizing: border-box;
+}
+
+div.content {
+    background-color: var(--panelBackground);
+    margin-top: 1em;
+    padding: 1em;
+
+}
+
+div.content-title {
+    background-color: var(--panelBackground);
+    font-weight: 700;
+    color: var(--fontColorSecondary);
+}
+
+div.white-space {
+    padding: 2em;
+}

@@ -1,0 +1,5 @@
+div.featured {
+    display: grid;
+    grid-template-columns: repeat(3, [col] 1fr);
+    grid-template-rows: repeat(3, [row] 1fr);
+}

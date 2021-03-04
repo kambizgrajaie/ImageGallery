@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+  font-family: 'sans-serif';
+}
+
+.dark-theme {
+  --mainBackground: black;
+  --panelBackground: darkGray;
+  --fontColorPrimary: lightGray;
+  --fontColorSecondary: white;
+  --carouselCaretColor: cyan;
+}
+
+.light-theme {
+  --mainBackground: #e1e1e1;
+  --panelBackground: #ffffff;
+  --fontColorPrimary: #2f516d;
+  --fontColorSecondary: #899bb2;
+  --carouselCaretColor: #444444;
+}
+ 
+
